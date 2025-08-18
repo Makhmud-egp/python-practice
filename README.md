@@ -15,7 +15,7 @@ python-practice/
 │
 ├── todo_app_json/         # ToDo App with JSON storage
 │   ├── ToDo.json
-│   └── todo_app.py
+│   └── todo_app_py_json.py
 │
 ├── expense_tracker/       # Expense Tracker (improved version)
 │   └── expense_tracker_v2.py
