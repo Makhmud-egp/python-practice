@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # todo_app_python_json
 =======
 # 📝 ToDo List App (Python + JSON)
@@ -59,4 +59,4 @@ Goodbye!
 
 
 
->>>>>>> e5b2e45 (Add ToDo App(python+json) project)
+
