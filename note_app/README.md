@@ -63,8 +63,4 @@ Run the script:
 -   endswith(“.txt”) → ensures correct file format
 -   while loop → keeps app running until stop
 
-Mnemonic: “NAME → ACTION → CATCH → CLEANUP”
-- NAME the file
-- ACTION (write/read/stop)
-- CATCH errors
-- CLEANUP with finally
+
